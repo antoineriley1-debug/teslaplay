@@ -1,2 +1,6 @@
 User-agent: *
+Allow: /teslaplay/about/
+Allow: /teslaplay/privacy/
+Allow: /about/
+Allow: /privacy/
 Disallow: /
